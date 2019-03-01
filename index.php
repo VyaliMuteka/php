@@ -17,9 +17,11 @@
 
 <?php
 
-echo"Hello word";
-    echo "hello Julia";
-
+echo"Hello my love";
+echo "hello Julia";
+echo "when do I see you?";
+echo"I miss you";
+echo"Yes I am, I'm your Romeu";
 ?>
 
 </body>
